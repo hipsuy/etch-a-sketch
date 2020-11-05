@@ -1,0 +1,1 @@
+This project provides an "etch-a-sketch" implementation
